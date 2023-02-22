@@ -1,4 +1,4 @@
-# Offline02_2200(A simple academic project on JS to convert temperature)
+# Offline02_2200(A simple academic project on VS code to convert temperature)
 
 
 
